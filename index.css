@@ -1,0 +1,48 @@
+body{
+    font-size: 18px;
+    line-height: 21px;
+    font-family: 'Roboto', sans-serif;
+}
+input, button ,label{
+    font-family: 'Roboto', sans-serif;
+}
+.label{
+    margin-left: 56px;
+}
+.nombre{
+    Width:297px;
+    Height:37px;
+    font-size: 18px;
+    line-height: 21px;
+    margin-left:56px ;
+}
+.p1{
+    margin: 22px auto 15px 56px;
+}
+.select{
+    Width:297px;
+    Height:37px;
+    font-size: 18px;
+    line-height: 21px;
+    margin-left: 56px;
+}
+.p2{
+    margin: 36px auto 16px 56px;
+}
+.radio{
+    margin-left: 56px;
+}
+button{
+margin: 63px auto auto 56px;
+Width: 186px;
+Height: 58px;
+font-size: 18px;
+line-height: 21px;
+border: 1px solid #000000;
+}
+.p3{
+margin:25px auto 16px 56px;
+}
+.checkbox{
+    margin-left: 56px;
+}
